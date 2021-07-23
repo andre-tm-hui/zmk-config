@@ -42,8 +42,8 @@
 			bindings = <
 &bt BT_CLR     &kp F1     &kp F2    &kp F3      &kp F4       &kp F5                                        &trans    &kp KP_DIVIDE    &kp KP_MULTIPLY          &kp KP_MINUS    &kp KP_PLUS    &kp GRAVE
 &bt BT_SEL 0   &kp F6     &kp F7    &kp F8      &kp F9       &kp F10                                       &trans    &kp KP_N7    &kp KP_N8     &kp KP_N9   &kp UNDER   &kp TILDE
-&bt BT_SEL 1   &kp F11    &kp F12   &kp F13     &kp F14      &kp F15                                       &trans    &kp KP_N4    &kp KP_N5     &kp KP_N6  &kp KP_EQUAL  &kp BSLH
-&bt BT_SEL 2   &ext_power EP_ON &ext_power EP_OFF &ext_power EP_TOG &trans    &trans    &trans   &kp CAPS    &trans    &kp KP_N1    &kp KP_N2     &kp KP_N3  &kp KP_EQUAL  &kp PIPE
+&bt BT_SEL 1   &kp F11    &kp F12   &kp F13     &kp F14      &kp F15                                       &trans    &kp KP_N4    &kp KP_N5     &kp KP_N6  &kp EQUAL  &kp BSLH
+&bt BT_SEL 2   &ext_power EP_ON &ext_power EP_OFF &ext_power EP_TOG &trans    &trans    &trans   &kp CAPS    &trans    &kp KP_N1    &kp KP_N2     &kp KP_N3  &kp EQUAL  &kp PIPE
                                               &trans            &trans       &trans    &trans   &kp RET     &trans    &kp KP_N0    &kp KP_DOT
 			>;
 
